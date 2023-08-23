@@ -15,8 +15,7 @@ Performed EDA to extract key insights from sales data ---
 7. Number of unique items in the store
 8. Number of unqiue customers
 
-2. Association Rule Mining (Market Basket Analysis) using Apriori Algorithm
-
+     2.  Association Rule Mining (Market Basket Analysis) using Apriori Algorithm
 
 Market Basket Analysis for an organization to identify the most frequently selling products in order to devise cross-selling marketing strategies.
 
